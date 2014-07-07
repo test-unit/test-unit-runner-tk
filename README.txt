@@ -1,6 +1,6 @@
 = Test::Unit::Runner::Tk
 
-* http://rubyforge.org/projects/test-unit/
+* https://github.com/test-unit/test-unit-runner-tk
 
 == DESCRIPTION:
 
